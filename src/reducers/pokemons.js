@@ -12,3 +12,4 @@ export const pokemonsReducer = (state = initialState, action) => {
             return state;
     }
 }
+
